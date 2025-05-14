@@ -10,7 +10,7 @@ whoami
 ## 💻 Tech-Stack
 - **Programmiersprachen**: Python, C/C++
 - **Tools**: Docker, Git, VS Code, Arduino
-- **Aktuell lerne ich**: C++, Python^, Hardware engeneering
+- **Aktuell lerne ich**: C++, Python, Hardware engeneering
 
 ## 🚀 Meine Projekte
 - sind aktuell noch reine übungsgegenstände. 
