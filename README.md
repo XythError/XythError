@@ -3,14 +3,14 @@ whoami
 - **Name**: Elias Steffen
 - **Ort**: Deutschland 🇩🇪
 - **Geboren**: 1996
-- **Beruf**: Softwareentwickler mit Fokus auf Webentwicklung
+- **Beruf**: Softwareentwickler & Hobbyengineur
 - **Pronomen**: Er/ihn
 - **Hobbys**: Technikbastler, Gaming, Sci-Fi
 
 ## 💻 Tech-Stack
-- **Programmiersprachen**: Python, JavaScript, C/C++
-- **Tools**: Docker, Git, VS Code, Arduino,
-- **Aktuell lerne ich**: C++, Python
+- **Programmiersprachen**: Python, C/C++
+- **Tools**: Docker, Git, VS Code, Arduino
+- **Aktuell lerne ich**: C++, Python^, Hardware engeneering
 
 ## 🚀 Meine Projekte
 - sind aktuell noch reine übungsgegenstände. 
