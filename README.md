@@ -1,6 +1,6 @@
 whoami
 
-- **Name**: Elias Steffen
+- **Name**: Elias
 - **Ort**: Deutschland 🇩🇪
 - **Geboren**: 1996
 - **Beruf**: Softwareentwickler & Hobbyengineur
