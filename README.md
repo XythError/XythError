@@ -3,17 +3,17 @@ whoami
 - **Name**: Elias
 - **Ort**: Deutschland 🇩🇪
 - **Geboren**: 1996
-- **Beruf**: Softwareentwickler & Hobbyengineur
+- **Beruf**: Hobbyengineur & Entwickler aus leidenschaft
 - **Pronomen**: Er/ihn
 - **Hobbys**: Technikbastler, Gaming, Sci-Fi
 
 ## 💻 Tech-Stack
 - **Programmiersprachen**: Python, C/C++
-- **Tools**: Docker, Git, VS Code, Arduino
+- **Tools**: Docker, Git, VS Code, Arduino, plattformIO
 - **Aktuell lerne ich**: C++, Python, Hardware engeneering
 
 ## 🚀 Meine Projekte
-- sind aktuell noch reine übungsgegenstände. 
+- BeeHiveSensor
 
 ## 🌐 Lass uns connecten!
 - 📧 E-Mail:elias@mytablab.de(mailto:elias@mytablab.de)
